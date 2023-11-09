@@ -1,2 +1,2 @@
 # Laboratorio cuoio
-Pagina del labortorio cuoio
+Pagina del laboratorio cuoio
